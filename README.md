@@ -19,7 +19,6 @@ Zhejiang University of Technology
 <a href="https://github.com/weili419/LSO/blob/main/LICENSE">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-111111?style=for-the-badge">
 </a>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Ready-EE4C2C?style=for-the-badge">
 
 </div>
 
