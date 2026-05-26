@@ -21,7 +21,7 @@ def main():
         default_model="lso_x8",
     )
     opt = parser.parse_args()
-    run_training(opt, HARVARD_CONFIG, "train_harvard(with_up)x4.h5", "test_harvardv3(with_up)x4.h5", "harvard")
+    run_training(opt, HARVARD_CONFIG, "train_harvard(with_up)x4.h5", "validation_harvard(with_up)x4.h5", "harvard")
 
 
 if __name__ == "__main__":

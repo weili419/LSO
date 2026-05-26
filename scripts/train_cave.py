@@ -21,7 +21,7 @@ def main():
         default_model="lso_x4",
     )
     opt = parser.parse_args()
-    run_training(opt, CAVE_CONFIG, "train_cave(with_up)x4.h5", "test_cave(with_up)x4.h5", "cave")
+    run_training(opt, CAVE_CONFIG, "train_cave(with_up)x4.h5", "validation_cave(with_up)x4.h5", "cave")
 
 
 if __name__ == "__main__":

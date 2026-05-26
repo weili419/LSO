@@ -70,11 +70,15 @@ Datasets are not bundled in this repository. Put the CAVE and Harvard HDF5 files
 data/
 ├── cave_x4/
 │   ├── train_cave(with_up)x4.h5
+│   ├── validation_cave(with_up)x4.h5
 │   └── test_cave(with_up)x4.h5
 └── Harvard_x4/
     ├── train_harvard(with_up)x4.h5
+    ├── validation_harvard(with_up)x4.h5
     └── test_harvardv3(with_up)x4.h5
 ```
+
+Training scripts use the validation files for model selection. Evaluation scripts use the test files.
 
 The loader uses `GT` and `RGB` from each HDF5 file and regenerates the low-resolution HSI by blur-and-downsample according to the selected dataset setting, such as `cave_x4`, `cave_x8`, `Harvard_x4`, or `Harvard_x8`.
 
