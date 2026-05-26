@@ -11,13 +11,16 @@ Zhejiang University of Technology
 <sub>* Corresponding author</sub>
 
 <a href="https://weili419.github.io/latent-spectral-operators/">
-  <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-4FD1C5?style=for-the-badge">
+  <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-0F766E?style=flat-square">
 </a>
 <a href="https://weili419.github.io/latent-spectral-operators/assets/paper.pdf">
-  <img alt="Paper" src="https://img.shields.io/badge/Paper-PDF-8A7DFF?style=for-the-badge">
+  <img alt="Paper" src="https://img.shields.io/badge/Paper-PDF-6D28D9?style=flat-square">
+</a>
+<a href="https://www.modelscope.cn/datasets/WeiLi419/Latent_Spectral_Operators_Cave_and_Harvard">
+  <img alt="Dataset" src="https://img.shields.io/badge/Dataset-ModelScope-2563EB?style=flat-square">
 </a>
 <a href="https://github.com/weili419/LSO/blob/main/LICENSE">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-111111?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-111827?style=flat-square">
 </a>
 
 </div>
