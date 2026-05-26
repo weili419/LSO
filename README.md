@@ -64,7 +64,10 @@ If your machine uses CUDA, install the PyTorch build matching your CUDA version 
 
 ## Data Preparation
 
-Datasets are not bundled in this repository. Put the CAVE and Harvard HDF5 files under `data/`, or pass a custom path with `DATAROOT=/path/to/dataset`.
+The CAVE and Harvard HDF5 files are available on ModelScope:
+[WeiLi419/Latent_Spectral_Operators_Cave_and_Harvard](https://www.modelscope.cn/datasets/WeiLi419/Latent_Spectral_Operators_Cave_and_Harvard).
+
+Put the downloaded files under `data/`, or pass a custom path with `DATAROOT=/path/to/dataset`.
 
 ```text
 data/
