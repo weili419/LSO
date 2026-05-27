@@ -26,7 +26,9 @@ Zhejiang University of Technology
 </div>
 
 <p align="center">
-  <img src="https://weili419.github.io/latent-spectral-operators/assets/overall.png" alt="LSO framework" width="95%">
+  <img src="assets/overall.png" alt="LSO framework" width="95%">
+  <br>
+  <img src="assets/pipeline.png" alt="LSO pipeline" width="95%">
 </p>
 
 ## Highlights
