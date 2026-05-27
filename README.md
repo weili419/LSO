@@ -13,7 +13,7 @@ Zhejiang University of Technology
 <a href="https://weili419.github.io/latent-spectral-operators/">
   <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-0F766E?style=flat-square">
 </a>
-<a href="https://weili419.github.io/latent-spectral-operators/assets/paper.pdf">
+<a href="assets/Solving_Spatial_Spectral_Fusion_with_Latent_Spectral_Operators_ICML2026_compressed_under20MB.pdf">
   <img alt="Paper" src="https://img.shields.io/badge/Paper-PDF-6D28D9?style=flat-square">
 </a>
 <a href="https://www.modelscope.cn/datasets/WeiLi419/Latent_Spectral_Operators_Cave_and_Harvard">
@@ -28,7 +28,11 @@ Zhejiang University of Technology
 <p align="center">
   <img src="assets/overall.png" alt="LSO framework" width="95%">
   <br>
+  <em>Overall design of Latent Spectral Operator.</em>
+  <br><br>
   <img src="assets/pipeline.png" alt="LSO pipeline" width="95%">
+  <br>
+  <em>Overall design of the Hierarchical Projection Network.</em>
 </p>
 
 ## Highlights
